@@ -1,0 +1,22 @@
+# ninja log v5
+99	12715	6958267549439798	CMakeFiles/oop1_project.dir/src/pacman.cpp.obj	c9409ae3dfbac4d6
+47	12795	6950579153954792	CMakeFiles/oop1_project.dir/src/lvlClock.cpp.obj	a4e8482443abae63
+12	52	0	C:/Users/Tomer/Desktop/Studies/college/C.S/HAC-OOP1/Project_SuperPacman/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	40b3dd03ff1c4afe
+55	6745	6958451167071105	CMakeFiles/oop1_project.dir/src/board.cpp.obj	8ea86cb06436b594
+66	13343	6958267555770536	CMakeFiles/oop1_project.dir/src/ghost.cpp.obj	edd9273fb7cd938f
+66	6985	6960855773959466	CMakeFiles/oop1_project.dir/src/menuButton.cpp.obj	716d2a3874fa5e6b
+54	6872	6959930556097901	CMakeFiles/oop1_project.dir/src/main.cpp.obj	4c76f6dc481bd2b9
+169	16082	6959904130318687	CMakeFiles/oop1_project.dir/src/character.cpp.obj	41f6c124ded25c2b
+58	6867	6959930556037926	CMakeFiles/oop1_project.dir/src/map.cpp.obj	abb469de74fa70b2
+173	20007	6959904170091738	CMakeFiles/oop1_project.dir/src/game.cpp.obj	a100b2dee1b80a9e
+7425	9729	6960855780062112	oop1_project.exe	b76fdd05d0db8a0e
+158	16516	6959904135133426	CMakeFiles/oop1_project.dir/src/SubWindow.cpp.obj	d11a0c9b47c31c3f
+75	921	6963845944953056	build.ninja	15ebabef4c6dc0e9
+63	7216	6960855776289411	CMakeFiles/oop1_project.dir/src/gameMenu.cpp.obj	95375b902e7b6f19
+124	16548	6959904135214821	CMakeFiles/oop1_project.dir/src/Inputs.cpp.obj	1ca707ea738c1264
+118	17833	6959904148212179	CMakeFiles/oop1_project.dir/src/HorizontalWindow.cpp.obj	824f778cef07e57a
+106	17835	6959904148289129	CMakeFiles/oop1_project.dir/src/CharMatrix.cpp.obj	b1e8410eef6107b4
+53	7425	6960855778359399	CMakeFiles/oop1_project.dir/src/GameEditor.cpp.obj	7fe7e43ee1958101
+138	18543	6959904155490425	CMakeFiles/oop1_project.dir/src/MainWindow.cpp.obj	a74b1145e05dc9a1
+57	7057	6960855774679434	CMakeFiles/oop1_project.dir/src/ToolsSubWindow.cpp.obj	b6054ed3cba12a7d
+114	18997	6959904160078273	CMakeFiles/oop1_project.dir/src/GridSubWindow.cpp.obj	551403c553eeff76

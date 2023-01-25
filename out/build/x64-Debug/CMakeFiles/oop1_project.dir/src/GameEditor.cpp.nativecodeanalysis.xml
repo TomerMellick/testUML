@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Tomer\Desktop\Studies\college\C.S\HAC-OOP1\Project_SuperPacman\src\</FILEPATH>
+      <FILENAME>GameEditor.cpp</FILENAME>
+      <LINE>62</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'window' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '54' of 'c:\users\tomer\desktop\studies\college\c.s\hac-oop1\project_superpacman\src\gameeditor.cpp'.</DESCRIPTION>
+    <FUNCTION>GameEditor::run</FUNCTION>
+    <DECORATED>?run@GameEditor@@QEAAXXZ</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Tomer\Desktop\Studies\college\C.S\HAC-OOP1\Project_SuperPacman\src\</FILEPATH>
+        <FILENAME>GameEditor.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
